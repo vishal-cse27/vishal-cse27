@@ -18,4 +18,4 @@
 - cpp-practice
 
 📫 Connect with Me
-- LinkedIn: (add your LinkedIn link later)
+- LinkedIn: (www.linkedin.com/in/vishal-gupta-56423b382)
