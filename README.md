@@ -1,11 +1,5 @@
-## Programs Completed
-- Hello World
-- Arrays
-- If Else
-- Loops
-- Factorial
-- Fibonacci
-- Palindrome
-- Prime Number
-- Reverse Number
-- Largest Number
+## Completed Topics
+- Linear Search
+- Binary Search
+- Largest Element
+- Bubble Sort
